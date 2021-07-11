@@ -1,5 +1,6 @@
-# Coursera_Capstone
-Coursera Capstone
-
-## Applied Data Science Capstone Course (Peer-graded Assignment: Capstone Project Notebook of Week 1)
-----
+# Applied Data Science Capstone Course
+-----
+## Week 4 and 5
+-----
+## Final Assignments
+-----
